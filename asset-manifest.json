@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lms1assignment/static/css/main.af989cf6.css",
+    "main.js": "/lms1assignment/static/js/main.b6b6c617.js",
+    "static/media/lizard.jpeg": "/lms1assignment/static/media/lizard.904584d99a63f5390b02.jpeg",
+    "index.html": "/lms1assignment/index.html",
+    "main.af989cf6.css.map": "/lms1assignment/static/css/main.af989cf6.css.map",
+    "main.b6b6c617.js.map": "/lms1assignment/static/js/main.b6b6c617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af989cf6.css",
+    "static/js/main.b6b6c617.js"
+  ]
+}
